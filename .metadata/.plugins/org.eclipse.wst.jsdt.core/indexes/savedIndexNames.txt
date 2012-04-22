@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\hroussel\labs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2772209755.index
+2882187359.index
+3082315186.index
+2346100726.index
+3428879747.index

@@ -1,0 +1,21 @@
+INDEX VERSION 1.126+C:\Users\hroussel\labs\.metadata\.plugins\org.eclipse.jdt.core
+473224132.index
+569080322.index
+2856525397.index
+3900311061.index
+2097304735.index
+1116136675.index
+2248437931.index
+1255066380.index
+833362206.index
+1797912458.index
+1406863405.index
+3010928247.index
+3212837141.index
+1562797933.index
+2712240392.index
+1764260089.index
+2772209755.index
+3420242819.index
+288844497.index
+3369469311.index

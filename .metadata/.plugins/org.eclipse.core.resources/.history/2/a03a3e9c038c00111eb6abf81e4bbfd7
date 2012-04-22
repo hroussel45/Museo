@@ -1,0 +1,10 @@
+package com.linkedsenior.user;
+
+import javax.persistence.Entity;
+import javax.ws.rs.Path;
+
+@Path("/webService")
+@Entity
+public class MyWebService implements java.io.Serializable {
+
+}

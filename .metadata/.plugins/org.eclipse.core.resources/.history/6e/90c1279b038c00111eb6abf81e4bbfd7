@@ -1,0 +1,16 @@
+package com.linkedsenior.user;
+
+import javax.persistence.Entity;
+import java.io.Serializable;
+import javax.persistence.Id;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Column;
+import javax.persistence.Version;
+import java.lang.Override;
+
+@Path("/webService")
+@Entity
+public class MyWebService implements java.io.Serializable {
+
+}

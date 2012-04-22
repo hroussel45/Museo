@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1335071718369
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.505.v201202020200,"org.eclipse.jst.j2ee.ejb",1335071718372
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.501.v201111030500,"org.eclipse.jst.j2ee.jca",1335071718374
+started,bundle,org.eclipse.jst.j2ee.web,1.1.502.v201202090300,"org.eclipse.jst.j2ee.web",1335071718377
+started,bundle,org.eclipse.jst.jee.ejb,1.0.301.v201007070821,"org.eclipse.jst.jee.ejb",1335071718379
+started,bundle,org.eclipse.jst.jee.web,1.0.301.v201007070907,"org.eclipse.jst.jee.web",1335071718379
+started,bundle,org.jboss.ide.eclipse.archives.ui,3.2.1.v20120302-0154-H54-Beta1,"org.jboss.ide.eclipse.archives.ui",1335071718381
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1335071718396
+started,bundle,org.eclipse.jpt.common.ui,1.0.1.v201201260000,"org.eclipse.jpt.common.ui",1335071718398
+started,bundle,org.eclipse.xsd,2.7.1.v20120130-0943,"org.eclipse.xsd",1335071718408
+started,bundle,org.jboss.tools.hibernate.jpt.core,3.4.0.v20120307-2104-H60-Beta1,"org.jboss.tools.hibernate.jpt.core",1335071718411
+started,bundle,org.eclipse.jpt.jpa.db,2.0.0.v201105030000,"org.eclipse.jpt.jpa.db",1335071718435
+started,bundle,org.eclipse.datatools.connectivity,1.2.4.v201202041105,"org.eclipse.datatools.connectivity",1335071718480
+started,bundle,org.jboss.tools.hibernate.jpt.ui,3.4.0.v20120307-2104-H60-Beta1,"org.jboss.tools.hibernate.jpt.ui",1335071718997
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1335071719004
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335071723234
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1335071725120
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1335071725121
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1335071725122
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335071725145
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1335071725199
+started,bundle,org.eclipse.mylyn.tasks.index.core,3.7.0.v20120319-0200,"org.eclipse.mylyn.tasks.index.core",1335071725220
+started,bundle,org.eclipse.mylyn.commons.notifications.ui,0.9.0.v20120319-0200,"org.eclipse.mylyn.commons.notifications.ui",1335071725301
+opened,view,org.eclipse.mylyn.tasks.ui,3.7.0.v20120319-0200,"org.eclipse.mylyn.tasks.ui.views.tasks",1335071725320
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1335071725398
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1335071725402
+started,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1335071725442
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335071727622
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1335071728716
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1335071728716
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1335071728721
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1335071728721
+started,bundle,org.jboss.tools.common.verification.ui,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.verification.ui",1335071728731
+started,bundle,org.codehaus.groovy.eclipse.core,2.6.1.xx-20120301-1000-e37-RELEASE,"org.codehaus.groovy.eclipse.core",1335071728753
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1335071728781
+started,bundle,org.codehaus.groovy.eclipse.ui,2.6.1.xx-20120301-1000-e37-RELEASE,"org.codehaus.groovy.eclipse.ui",1335071728783
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1335071728794
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071730620
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1335071733473
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071738252
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1335071738257
+started,bundle,org.eclipse.m2e.launching,1.0.200.20111228-1245,"org.eclipse.m2e.launching",1335071742009
+started,bundle,org.jboss.tools.common.jdt.debug,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.jdt.debug",1335071742019
+started,bundle,org.jboss.tools.common.jdt.debug.ui,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.jdt.debug.ui",1335071742020
+activated,editor,org.jboss.tools.central,1.0.0.v20120307-1926-H67-Beta1,"org.jboss.tools.central.editors.JBossCentralEditor",1335071742302
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335071742397
+closed,editor,org.jboss.tools.central,1.0.0.v20120307-1926-H67-Beta1,"org.jboss.tools.central.editors.JBossCentralEditor",1335071742397
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071744043
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071789079
+started,bundle,org.eclipse.m2e.core.ui,1.0.200.20111228-1245,"org.eclipse.m2e.core.ui",1335071791857
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071795199
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071798127
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071799241
+error,log,,,"Failed to initialize Git team provider.",1335071804828
+started,bundle,org.eclipse.wst.html.core,1.1.502.v201202091936,"org.eclipse.wst.html.core",1335071805287
+started,bundle,org.eclipse.m2e.editor.xml,1.0.200.20111228-1245,"org.eclipse.m2e.editor.xml",1335071805364
+error,log,,,"[Working copy] __2F_Museo_2F_src_2F_main_2F_webapp_2F_snoop_2E_jsp.java [in <default> [in src/main/java [in Museo]]] does not exist",1335071805624
+started,bundle,org.jboss.tools.maven.ui,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.ui",1335071805720
+started,bundle,org.eclipse.jst.jsf.facelet.ui,1.0.1.v201104032306,"org.eclipse.jst.jsf.facelet.ui",1335071806510
+started,bundle,org.eclipse.jst.jsf.facelet.core,1.0.100.v201104191527,"org.eclipse.jst.jsf.facelet.core",1335071806519
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071827993
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071832369
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071840798
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335071842126
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071845076
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071925473
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071951110
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071954798
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.team.Commit",1335071954801
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335071956022
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071963795
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071965296
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071966356
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071966515
+opened,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.sync.views.SynchronizeView",1335071966625
+opened,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.GenericHistoryView",1335071966639
+opened,view,org.eclipse.mylyn.tasks.ui,3.7.0.v20120319-0200,"org.eclipse.mylyn.tasks.ui.views.repositories",1335071966656
+activated,perspective,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.TeamSynchronizingPerspective",1335071966664
+activated,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.GenericHistoryView",1335071966682
+activated,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.sync.views.SynchronizeView",1335071966725
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1335071970577
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335071970597
+opened,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335071979968
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335071980014
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.team.ShowRepositoriesView",1335071980017
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071980036
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071982325
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071991963
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1335071993595
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335071999805
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335071999811
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072010561
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072011901
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072043379
+started,bundle,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp",1335072061756
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1335072061761
+started,bundle,org.jboss.tools.common.text.xml,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.text.xml",1335072061765
+started,bundle,org.jboss.tools.vpe,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe",1335072061771
+started,bundle,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.ui",1335072061813
+started,bundle,org.hibernate.eclipse.mapper,3.4.0.v20120307-2104-H60-Beta1,"org.hibernate.eclipse.mapper",1335072061881
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.ui",1335072061884
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.core",1335072061894
+started,bundle,org.eclipse.jst.jsf.ui,1.3.2.v201104251204,"org.eclipse.jst.jsf.ui",1335072061967
+started,bundle,org.eclipse.wst.css.ui,1.0.601.v201201101544,"org.eclipse.wst.css.ui",1335072061980
+error,log,,,"Preference node ""org.eclipse.wst.validation"" has been removed.",1335072062024
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1335072062033
+error,log,,,"Current platform 'win32.win32.x86_64' is not supported.",1335072062347
+started,bundle,org.jboss.tools.vpe.xulrunner,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe.xulrunner",1335072062348
+started,bundle,org.jboss.tools.jst.css,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.css",1335072062514
+error,log,,,"Could not open the Visual Page Editor:\nCurrent platform 'win32.win32.x86_64' is not supported.",1335072062533
+started,bundle,org.eclipse.gef,3.7.2.v20111106-2020,"org.eclipse.gef",1335072062580
+opened,editor,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp.jspeditor.HTMLTextEditor",1335072062612
+activated,editor,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp.jspeditor.HTMLTextEditor",1335072062834
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072068534
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072068660
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072070207
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072106988
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072107757
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072109244
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072110563
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072158782
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072160163
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335072160294
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesViewRefresh",1335072171324
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesViewRefresh",1335072195466
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072207824
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335072215684
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072217983
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072218038
+error,log,,,"An exception occurred during push on URI ssh://74a284b4d1a74030b01865a6f03b0f63@museo-hroussel.rhcloud.com/~/git/museo.git/: An internal Exception occurred during push: Source ref refs/heads/master doesnt resolve to any object.",1335072231130
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072235091
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesViewNewRemote",1335072235117
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.team.SimplePush",1335072245903
+error,log,,,"An exception occurred during push on URI ssh://74a284b4d1a74030b01865a6f03b0f63@museo-hroussel.rhcloud.com/~/git/museo.git/: An internal Exception occurred during push: Source ref refs/heads/master doesnt resolve to any object.",1335072245906
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072245979
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072249418
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072262377
+error,log,,,"An exception occurred during push on URI ssh://74a284b4d1a74030b01865a6f03b0f63@museo-hroussel.rhcloud.com/~/git/museo.git/: An internal Exception occurred during push: Source ref refs/heads/master doesnt resolve to any object.",1335072266040
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335072272583
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335072280266
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1335072281680
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1335072283607
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1335072284342
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335072284821
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335072285044
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335072286389
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335072290665
+error,log,,,"An exception occurred during push on URI ssh://74a284b4d1a74030b01865a6f03b0f63@museo-hroussel.rhcloud.com/~/git/museo.git/: An internal Exception occurred during push: Source ref refs/heads/master doesnt resolve to any object.",1335072316514
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072316537
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesViewConfigurePush",1335072316560
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072316669
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072318424
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.team.SimpleFetch",1335072323043
+error,log,,,"Nothing to fetch.",1335072323046
+error,log,,,"Nothing to fetch.",1335072323047
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072323068
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072327653
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072331517
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072333001
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072340030
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1335072340052
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072340631
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072342815
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072343894
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335072343905
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072347562
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072349051
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335072349061
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072360325
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072376305
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.team.Commit",1335072376324
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072378204
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072381262
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335072381271
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072385268
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335072385595
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335072386089
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072390140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072390249
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072397731
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesViewCreateRepository",1335072397742
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072421397
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072422652
+executed,command,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.team.Commit",1335072422660
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072423940
+error,log,,,"Unhandled event loop exception",1335072427539
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1335072427566
+error,log,,,"An unexpected exception was thrown.",1335072427569
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1335072427574
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072427584
+error,log,,,"An error has occurred. See error log for more details.",1335072427590
+error,log,,,"Error occurred during status handling",1335072427592
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072427595
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072427607
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072428664
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072470002
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1335072470024
+error,log,,,"An unexpected exception was thrown.",1335072470025
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072470031
+error,log,,,"Unhandled event loop exception",1335072475103
+activated,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072475132
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1335072476683
+error,log,,,"An unexpected exception was thrown.",1335072476684
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072476691
+closed,view,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui.RepositoriesView",1335072476698
+activated,editor,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp.jspeditor.HTMLTextEditor",1335072477267
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1335072478549
+error,log,,,"An unexpected exception was thrown.",1335072478550
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072478559
+closed,editor,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp.jspeditor.HTMLTextEditor",1335072478559
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.SourceView",1335072480945
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.SourceView",1335072480967
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.200.v201101281837,"org.eclipse.wst.xsl.debug.ui",1335072482098
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335072484155
+error,log,,,"Unhandled event loop exception",1335072487909
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jface"".",1335072487969
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072487977
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072489321
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072489337
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072492033
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1335072492038
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072493077
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072494390
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335072494460
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1335072494731
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1335072494731
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1335072494731
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1335072494731
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1335072494731
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1335072494732
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.105.v201004211805,"org.eclipse.jst.ws.axis2.consumption.core",1335072494732
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.303.v201003110431,"org.eclipse.jst.ws.axis2.ui",1335072494732
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.204.v201004211805,"org.eclipse.jst.ws.axis2.core",1335072494732
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.ui,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.ui",1335072494732
+stopped,bundle,org.jboss.tools.ws.creation.ui,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.creation.ui",1335072494732
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.609.v201103082016,"org.eclipse.jst.ws.creation.ui",1335072494732
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.ui,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.ui",1335072494732
+stopped,bundle,org.jboss.tools.ws.ui,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.ui",1335072494732
+stopped,bundle,org.jboss.tools.ws.creation.core,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.creation.core",1335072494732
+stopped,bundle,org.jboss.tools.ws.core,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.core",1335072494732
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.402.v201201250306,"org.eclipse.jst.ws.consumption.ui",1335072494732
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.603.v201202012024,"org.eclipse.jst.ws.consumption",1335072494733
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.core,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.core",1335072494733
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.core",1335072494733
+stopped,bundle,org.eclipse.jst.ws.cxf.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.cxf.ui",1335072494733
+stopped,bundle,org.eclipse.jst.ws.cxf.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.core",1335072494733
+stopped,bundle,org.eclipse.jst.ws.uddiregistry,1.0.500.v201004211805,"org.eclipse.jst.ws.uddiregistry",1335072494733
+stopped,bundle,org.eclipse.jst.ws.ui,1.0.403.v201004211805,"org.eclipse.jst.ws.ui",1335072494733
+stopped,bundle,org.eclipse.jst.ws,1.0.509.v201108250610,"org.eclipse.jst.ws",1335072494734
+stopped,bundle,org.eclipse.wst.ws.explorer,1.0.607.v201103082002,"org.eclipse.wst.ws.explorer",1335072494734

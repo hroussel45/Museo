@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048141567
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048141872
+started,bundle,org.eclipse.jst.jsf.common,1.2.3.v201104061039,"org.eclipse.jst.jsf.common",1335048142840
+started,bundle,org.eclipse.jst.jsf.core,1.3.105.v201108261005,"org.eclipse.jst.jsf.core",1335048142843
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProgressView",1335048147445
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProgressView",1335048147467
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201107221459,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1335048151080
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1335048152892
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335048157112
+error,log,,,"Error logged from Forge Plugin: ",1335048160199
+error,log,,,"Error logged from Forge Plugin: ",1335048160200
+error,log,,,"Error logged from Forge Plugin: ",1335048160201
+error,log,,,"Error logged from Forge Plugin: ",1335048160202
+error,log,,,"Error logged from Forge Plugin: ",1335048160203
+error,log,,,"Error logged from Forge Plugin: ",1335048160204
+error,log,,,"Error logged from Forge Plugin: ",1335048160205
+error,log,,,"Error logged from Forge Plugin: ",1335048160206
+error,log,,,"Error logged from Forge Plugin: ",1335048160383
+error,log,,,"Error logged from Forge Plugin: ",1335048160384
+error,log,,,"Error logged from Forge Plugin: ",1335048160385
+error,log,,,"Error logged from Forge Plugin: ",1335048160386
+error,log,,,"Error logged from Forge Plugin: ",1335048160388
+error,log,,,"Error logged from Forge Plugin: ",1335048160389
+error,log,,,"Error logged from Forge Plugin: ",1335048160390
+error,log,,,"Error logged from Forge Plugin: ",1335048160391
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335048162657
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335048162909
+error,log,,,"Error logged from Forge Plugin: ",1335048165576
+error,log,,,"Error logged from Forge Plugin: ",1335048165741
+error,log,,,"Error logged from Forge Plugin: ",1335048165751
+error,log,,,"Error logged from Forge Plugin: ",1335048165984
+error,log,,,"Error logged from Forge Plugin: ",1335048165985
+error,log,,,"Error logged from Forge Plugin: ",1335048165986
+error,log,,,"Error logged from Forge Plugin: ",1335048165987
+error,log,,,"Error logged from Forge Plugin: ",1335048165988
+error,log,,,"Error logged from Forge Plugin: ",1335048165989
+error,log,,,"Error logged from Forge Plugin: ",1335048166004
+error,log,,,"Error logged from Forge Plugin: ",1335048166005
+error,log,,,"Error logged from Forge Plugin: ",1335048166006
+error,log,,,"Error logged from Forge Plugin: ",1335048166007
+error,log,,,"Error logged from Forge Plugin: ",1335048166129
+error,log,,,"Error logged from Forge Plugin: ",1335048166131
+error,log,,,"Error logged from Forge Plugin: ",1335048166132
+error,log,,,"Error logged from Forge Plugin: ",1335048166133
+error,log,,,"Error logged from Forge Plugin: ",1335048166134
+error,log,,,"Error logged from Forge Plugin: ",1335048166135
+error,log,,,"Error logged from Forge Plugin: ",1335048166136
+error,log,,,"Error logged from Forge Plugin: ",1335048166137
+error,log,,,"Error logged from Forge Plugin: ",1335048166298
+error,log,,,"Error logged from Forge Plugin: ",1335048166299
+error,log,,,"Error logged from Forge Plugin: ",1335048166300
+error,log,,,"Error logged from Forge Plugin: ",1335048166301
+error,log,,,"Error logged from Forge Plugin: ",1335048166302
+error,log,,,"Error logged from Forge Plugin: ",1335048166303
+error,log,,,"Error logged from Forge Plugin: ",1335048166304
+error,log,,,"Error logged from Forge Plugin: ",1335048166305
+error,log,,,"Error logged from Forge Plugin: ",1335048166566
+error,log,,,"Error logged from Forge Plugin: ",1335048166709
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.goto",1335048169812
+opened,view,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.internal.introview",1335048172370
+activated,view,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.internal.introview",1335048172387
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335048174631
+closed,view,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.internal.introview",1335048174643
+error,log,,,"Error logged from Forge Plugin: ",1335048178943
+error,log,,,"Error logged from Forge Plugin: ",1335048178945
+error,log,,,"Error logged from Forge Plugin: ",1335048178946
+error,log,,,"Error logged from Forge Plugin: ",1335048178947
+error,log,,,"Error logged from Forge Plugin: ",1335048178948
+error,log,,,"Error logged from Forge Plugin: ",1335048178949
+error,log,,,"Error logged from Forge Plugin: ",1335048178950
+error,log,,,"Error logged from Forge Plugin: ",1335048178951
+error,log,,,"Error logged from Forge Plugin: ",1335048178952
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048184887
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048198148
+error,log,,,"Error logged from Forge Plugin: ",1335048198803
+error,log,,,"Error logged from Forge Plugin: ",1335048198804
+error,log,,,"Error logged from Forge Plugin: ",1335048198805
+error,log,,,"Error logged from Forge Plugin: ",1335048198806
+error,log,,,"Error logged from Forge Plugin: ",1335048198807
+error,log,,,"Error logged from Forge Plugin: ",1335048198808
+error,log,,,"Error logged from Forge Plugin: ",1335048198809
+error,log,,,"Error logged from Forge Plugin: ",1335048198811
+error,log,,,"Error logged from Forge Plugin: ",1335048198993
+error,log,,,"Error logged from Forge Plugin: ",1335048198994
+error,log,,,"Error logged from Forge Plugin: ",1335048198995
+error,log,,,"Error logged from Forge Plugin: ",1335048198996
+error,log,,,"Error logged from Forge Plugin: ",1335048198997
+error,log,,,"Error logged from Forge Plugin: ",1335048198998
+error,log,,,"Error logged from Forge Plugin: ",1335048199000
+error,log,,,"Error logged from Forge Plugin: ",1335048199001
+error,log,,,"Error logged from Forge Plugin: ",1335048202340
+error,log,,,"Error logged from Forge Plugin: ",1335048202341
+error,log,,,"Error logged from Forge Plugin: ",1335048202342
+error,log,,,"Error logged from Forge Plugin: ",1335048202343
+error,log,,,"Error logged from Forge Plugin: ",1335048202344
+error,log,,,"Error logged from Forge Plugin: ",1335048202346
+error,log,,,"Error logged from Forge Plugin: ",1335048202347
+error,log,,,"Error logged from Forge Plugin: ",1335048202348
+error,log,,,"Error logged from Forge Plugin: ",1335048202465
+error,log,,,"Error logged from Forge Plugin: ",1335048202466
+error,log,,,"Error logged from Forge Plugin: ",1335048202467
+error,log,,,"Error logged from Forge Plugin: ",1335048202468
+error,log,,,"Error logged from Forge Plugin: ",1335048202469
+error,log,,,"Error logged from Forge Plugin: ",1335048202471
+error,log,,,"Error logged from Forge Plugin: ",1335048202472
+error,log,,,"Error logged from Forge Plugin: ",1335048202473
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335048204593
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335048204785
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335048205121
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335048206223
+error,log,,,"Error logged from Forge Plugin: ",1335048206513
+error,log,,,"Error logged from Forge Plugin: ",1335048206514
+error,log,,,"Error logged from Forge Plugin: ",1335048206515
+error,log,,,"Error logged from Forge Plugin: ",1335048206516
+error,log,,,"Error logged from Forge Plugin: ",1335048206517
+error,log,,,"Error logged from Forge Plugin: ",1335048206518
+error,log,,,"Error logged from Forge Plugin: ",1335048206519
+error,log,,,"Error logged from Forge Plugin: ",1335048206520
+error,log,,,"Error logged from Forge Plugin: ",1335048206806
+error,log,,,"Error logged from Forge Plugin: ",1335048206807
+error,log,,,"Error logged from Forge Plugin: ",1335048206808
+error,log,,,"Error logged from Forge Plugin: ",1335048206809
+error,log,,,"Error logged from Forge Plugin: ",1335048206810
+error,log,,,"Error logged from Forge Plugin: ",1335048206811
+error,log,,,"Error logged from Forge Plugin: ",1335048206812
+error,log,,,"Error logged from Forge Plugin: ",1335048206814
+error,log,,,"Error logged from Forge Plugin: ",1335048207061
+error,log,,,"Error logged from Forge Plugin: ",1335048207062
+error,log,,,"Error logged from Forge Plugin: ",1335048207063
+error,log,,,"Error logged from Forge Plugin: ",1335048207065
+error,log,,,"Error logged from Forge Plugin: ",1335048207066
+error,log,,,"Error logged from Forge Plugin: ",1335048207067
+error,log,,,"Error logged from Forge Plugin: ",1335048207068
+error,log,,,"Error logged from Forge Plugin: ",1335048207069
+error,log,,,"Error logged from Forge Plugin: ",1335048207251
+error,log,,,"Error logged from Forge Plugin: ",1335048207252
+error,log,,,"Error logged from Forge Plugin: ",1335048207254
+error,log,,,"Error logged from Forge Plugin: ",1335048207255
+error,log,,,"Error logged from Forge Plugin: ",1335048207256
+error,log,,,"Error logged from Forge Plugin: ",1335048207257
+error,log,,,"Error logged from Forge Plugin: ",1335048207258
+error,log,,,"Error logged from Forge Plugin: ",1335048207259
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335048208306
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048210148
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048212700
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.commandList",1335048212703
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335048224993
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048240763
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048240798
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335048240851
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048243281
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048247838
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048247923
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335048256262
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048256703
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335048260205
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1335048267608
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335048269677
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335048275316
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048275316
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335048276791
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048277774
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048277810
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1335048282644
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048282895
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1335048286805
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1335048286807
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1335048286809
+started,bundle,org.codehaus.groovy.eclipse.quickfix,2.6.1.xx-20120301-1000-e37-RELEASE,"org.codehaus.groovy.eclipse.quickfix",1335048286827
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048290224
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1335048291366
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048291386
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1335048292918
+started,bundle,org.jboss.tools.cdi.seam.text.ext,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.seam.text.ext",1335048293158
+started,bundle,org.jboss.tools.cdi.text.ext,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.text.ext",1335048293161
+started,bundle,org.jboss.tools.seam.text.ext,3.3.0.v20120302-2019-H81-Beta1,"org.jboss.tools.seam.text.ext",1335048293166
+started,bundle,org.eclipse.mylyn.java.tasks,3.7.0.v20120319-0200,"org.eclipse.mylyn.java.tasks",1335048293178
+started,bundle,org.jboss.tools.jst.text.ext,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.text.ext",1335048293190
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048293205
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1335048296779
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335048297066
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048297267
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1335048298338
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335048298352
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048300416
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048584615
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335048586566
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048586566
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335048586576
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335048587396
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048590512
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048595099
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048620964
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048623531
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048624575
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048633140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048642017
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048677514
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048679710
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048704326
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048737984
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048757937
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048771706
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048783800
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048787754
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048901769
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048916248
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.commandList",1335048916253
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048916259
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048927974
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.commandList",1335048927978
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048927983
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335048927986
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048930092
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048931038
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.commandList",1335048931042
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048976440
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049004038
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335049007605
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049011921
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049032348
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335049044152
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049048107
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049051472
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049052859
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049068234
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335049095279
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049102690
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049117309
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049130420
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049162734
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049164493
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049172001
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1335049177989
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049178937
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049179742
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335049179788
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1335049180078
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1335049180079
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1335049180079
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1335049180080
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1335049180080
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1335049180080
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.105.v201004211805,"org.eclipse.jst.ws.axis2.consumption.core",1335049180081
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.303.v201003110431,"org.eclipse.jst.ws.axis2.ui",1335049180081
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.204.v201004211805,"org.eclipse.jst.ws.axis2.core",1335049180081
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.ui,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.ui",1335049180081
+stopped,bundle,org.jboss.tools.ws.creation.ui,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.creation.ui",1335049180082
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.609.v201103082016,"org.eclipse.jst.ws.creation.ui",1335049180082
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.ui,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.ui",1335049180082
+stopped,bundle,org.jboss.tools.ws.ui,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.ui",1335049180082
+stopped,bundle,org.jboss.tools.ws.creation.core,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.creation.core",1335049180083
+stopped,bundle,org.jboss.tools.ws.core,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.core",1335049180083
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.402.v201201250306,"org.eclipse.jst.ws.consumption.ui",1335049180083
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.603.v201202012024,"org.eclipse.jst.ws.consumption",1335049180084
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.core,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.core",1335049180084
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.core",1335049180084
+stopped,bundle,org.eclipse.jst.ws.cxf.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.cxf.ui",1335049180085
+stopped,bundle,org.eclipse.jst.ws.cxf.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.core",1335049180085
+stopped,bundle,org.eclipse.jst.ws.uddiregistry,1.0.500.v201004211805,"org.eclipse.jst.ws.uddiregistry",1335049180085
+stopped,bundle,org.eclipse.jst.ws.ui,1.0.403.v201004211805,"org.eclipse.jst.ws.ui",1335049180085
+stopped,bundle,org.eclipse.jst.ws,1.0.509.v201108250610,"org.eclipse.jst.ws",1335049180086
+stopped,bundle,org.eclipse.wst.ws.explorer,1.0.607.v201103082002,"org.eclipse.wst.ws.explorer",1335049180086
+stopped,bundle,org.eclipse.wst.wsdl.ui,1.2.403.v201108240515,"org.eclipse.wst.wsdl.ui",1335049180087
+stopped,bundle,org.eclipse.wst.ws.ui,1.1.200.v201004211805,"org.eclipse.wst.ws.ui",1335049180087
+stopped,bundle,org.eclipse.wst.wsi.ui,1.0.502.v201104071820,"org.eclipse.wst.wsi.ui",1335049180087
+stopped,bundle,org.eclipse.wst.wsi,1.0.401.v201104071820,"org.eclipse.wst.wsi",1335049180087
+stopped,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1335049180088
+stopped,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.500.v201105122000,"org.eclipse.jst.j2ee.webservice.ui",1335049180088
+stopped,bundle,org.eclipse.jst.j2ee.webservice,1.1.400.v201004110600,"org.eclipse.jst.j2ee.webservice",1335049180088
+stopped,bundle,org.eclipse.wst.ws.parser,1.0.403.v201004211805,"org.eclipse.wst.ws.parser",1335049180088
+stopped,bundle,org.eclipse.jpt.dbws.eclipselink.ui,1.0.0.v201104110000,"org.eclipse.jpt.dbws.eclipselink.ui",1335049180089
+stopped,bundle,org.eclipse.datatools.enablement.hsqldb.ui,1.0.0.v201108120600,"org.eclipse.datatools.enablement.hsqldb.ui",1335049180090
+stopped,bundle,org.eclipse.datatools.enablement.ingres.ui,1.0.0.v201105270214,"org.eclipse.datatools.enablement.ingres.ui",1335049180090
+stopped,bundle,org.eclipse.datatools.enablement.postgresql.ui,1.0.0.v201107221506,"org.eclipse.datatools.enablement.postgresql.ui",1335049180090
+stopped,bundle,org.eclipse.datatools.enablement.sqlite.ui,1.0.0.v201107221507,"org.eclipse.datatools.enablement.sqlite.ui",1335049180090
+stopped,bundle,org.eclipse.jpt.jpa.eclipselink.ui,2.0.1.v201108080010,"org.eclipse.jpt.jpa.eclipselink.ui",1335049180091
+stopped,bundle,org.jboss.tools.hibernate.jpt.ui,3.4.0.v20120307-2104-H60-Beta1,"org.jboss.tools.hibernate.jpt.ui",1335049180091
+stopped,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1335049180091
+stopped,bundle,org.jboss.tools.cdi.seam.config.ui,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.seam.config.ui",1335049180091
+stopped,bundle,org.jboss.tools.cdi.seam.text.ext,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.seam.text.ext",1335049180091
+stopped,bundle,org.jboss.tools.cdi.text.ext,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.text.ext",1335049180091
+stopped,bundle,org.jboss.tools.cdi.xml.ui,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.xml.ui",1335049180092
+stopped,bundle,org.jboss.tools.cdi.ui,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.ui",1335049180092
+stopped,bundle,org.jboss.tools.jsf.ui,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.ui",1335049180092
+stopped,bundle,org.jboss.tools.jsf.vpe.ajax4jsf,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.ajax4jsf",1335049180093
+stopped,bundle,org.jboss.tools.jsf.vpe.richfaces,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.richfaces",1335049180093
+stopped,bundle,org.jboss.tools.jsf.vpe.facelets,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.facelets",1335049180093
+stopped,bundle,org.jboss.tools.jsf.vpe.jbpm,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.jbpm",1335049180094
+stopped,bundle,org.jboss.tools.jsf.vpe.jstl,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.jstl",1335049180094
+stopped,bundle,org.jboss.tools.jsf.vpe.seam,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.seam",1335049180095
+stopped,bundle,org.jboss.tools.jsf.vpe.jsf,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.jsf",1335049180095
+stopped,bundle,org.jboss.tools.jsf.vpe.myfaces,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.vpe.myfaces",1335049180095
+stopped,bundle,org.jboss.tools.vpe.docbook,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe.docbook",1335049180096
+stopped,bundle,org.jboss.tools.vpe.html,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe.html",1335049180096
+stopped,bundle,org.jboss.tools.vpe.jsp,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe.jsp",1335049180096
+stopped,bundle,org.jboss.tools.vpe.spring,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe.spring",1335049180097
+stopped,bundle,org.jboss.tools.vpe,3.3.0.v20120302-0244-H56-Beta1,"org.jboss.tools.vpe",1335049180097
+stopped,bundle,org.jboss.tools.jst.css,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.css",1335049180097
+stopped,bundle,org.jboss.tools.jst.web.tiles.ui,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.web.tiles.ui",1335049180097

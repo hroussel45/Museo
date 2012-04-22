@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047253847
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047256192
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047268311
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047444217
+started,bundle,org.eclipse.m2e.core,1.0.200.20111228-1245,"org.eclipse.m2e.core",1335047472169
+started,bundle,org.eclipse.m2e.editor.xml,1.0.200.20111228-1245,"org.eclipse.m2e.editor.xml",1335047472586
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1335047472596
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1335047472620
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1335047472620
+started,bundle,org.jboss.tools.common.model.ui,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.model.ui",1335047472632
+started,bundle,org.jboss.tools.jsf,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf",1335047472925
+started,bundle,org.jboss.tools.common.projecttemplates,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.projecttemplates",1335047473771
+started,bundle,org.jboss.tools.jst.web,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.web",1335047473771
+started,bundle,org.jboss.tools.jst.web.tiles,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.web.tiles",1335047473772
+started,bundle,org.jboss.tools.hibernate.xml,3.4.0.v20120307-2104-H60-Beta1,"org.jboss.tools.hibernate.xml",1335047473772
+started,bundle,org.jboss.tools.seam.xml,3.3.0.v20120302-2019-H81-Beta1,"org.jboss.tools.seam.xml",1335047473774
+started,bundle,org.jboss.tools.seam.pages.xml,3.3.0.v20120302-2019-H81-Beta1,"org.jboss.tools.seam.pages.xml",1335047473775
+started,bundle,org.jboss.tools.cdi.xml,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.xml",1335047473777
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1335047473843
+started,bundle,org.eclipse.m2e.core.ui,1.0.200.20111228-1245,"org.eclipse.m2e.core.ui",1335047473871
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1335047473979
+started,bundle,org.tigris.subversion.clientadapter.javahl,1.7.4,"org.tigris.subversion.clientadapter.javahl",1335047473982
+started,bundle,org.tigris.subversion.clientadapter.svnkit,1.7.0,"org.tigris.subversion.clientadapter.svnkit",1335047473984
+started,bundle,org.maven.ide.eclipse.wtp,0.15.2.20120306-2040,"org.maven.ide.eclipse.wtp",1335047473985
+started,bundle,org.jboss.tools.common.el.core,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.el.core",1335047473990
+started,bundle,org.eclipse.jst.jee.ui,1.0.401.v201202011107,"org.eclipse.jst.jee.ui",1335047473993
+started,bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.501.v201107261503,"org.eclipse.jst.j2ee.navigator.ui",1335047473998
+started,bundle,org.codehaus.groovy,1.8.6.xx-20120301-1000-e37-RELEASE,"org.codehaus.groovy",1335047474229
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335047475802
+started,bundle,org.jboss.tools.jst.web.ui,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.web.ui",1335047475810
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1335047475818
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1335047475823
+started,bundle,org.jboss.ide.eclipse.archives.ui,3.2.1.v20120302-0154-H54-Beta1,"org.jboss.ide.eclipse.archives.ui",1335047475835
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047478359
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047497946
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047497956
+started,bundle,org.eclipse.m2e.jdt,1.0.200.20111228-1245,"org.eclipse.m2e.jdt",1335047504419
+started,bundle,org.jboss.tools.maven.cdi,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.cdi",1335047504423
+started,bundle,org.jboss.tools.maven.hibernate,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.hibernate",1335047504424
+started,bundle,org.jboss.tools.maven.jpa,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.jpa",1335047504426
+started,bundle,org.jboss.tools.maven.core,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.core",1335047504447
+started,bundle,org.jboss.tools.maven.seam,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.seam",1335047504448
+started,bundle,org.jboss.tools.maven.ui,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.ui",1335047504460
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.200,"jar",1335047518094
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1335047518094
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1335047518094
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-compiler-plugin:2.3.2",1335047518094
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1335047518094
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-compiler-plugin:2.3.2",1335047518094
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-surefire-plugin:2.7.1",1335047518094
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1335047518094
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1335047518094
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1335047518094
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1335047518094
+started,bundle,org.eclipse.jst.common.frameworks,1.1.501.v201201190400,"org.eclipse.jst.common.frameworks",1335047519645
+error,log,,,"Core exception while retrieving the content description",1335047519665
+error,log,,,"Core exception while retrieving the content description",1335047519669
+error,log,,,"Core exception while retrieving the content description",1335047519672
+error,log,,,"Core exception while retrieving the content description",1335047519674
+error,log,,,"Core exception while retrieving the content description",1335047519676
+error,log,,,"Core exception while retrieving the content description",1335047519677
+error,log,,,"Core exception while retrieving the content description",1335047519680
+error,log,,,"Core exception while retrieving the content description",1335047519689
+error,log,,,"Core exception while retrieving the content description",1335047519692
+error,log,,,"Core exception while retrieving the content description",1335047519698
+error,log,,,"Core exception while retrieving the content description",1335047519701
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047520897
+started,bundle,org.jboss.tools.cdi.core,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.core",1335047525715
+started,bundle,org.eclipse.ant.ui,3.5.101.v20120110-1739,"org.eclipse.ant.ui",1335047525772
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1335047525921
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1335047526009
+started,bundle,org.eclipse.ui.views.properties.tabbed,3.5.200.v20110928-1505,"org.eclipse.ui.views.properties.tabbed",1335047526012
+started,bundle,org.eclipse.jpt.common.ui,1.0.1.v201201260000,"org.eclipse.jpt.common.ui",1335047526014
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1335047526037
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1335047526109
+started,bundle,org.hibernate.eclipse.jdt.ui,3.4.0.v20120307-2104-H60-Beta1,"org.hibernate.eclipse.jdt.ui",1335047526120
+started,bundle,org.hibernate.eclipse.libs,3.4.0.v20120307-2104-H60-Beta1,"org.hibernate.eclipse.libs",1335047526121
+started,bundle,org.hibernate.eclipse,3.4.0.v20120307-2104-H60-Beta1,"org.hibernate.eclipse",1335047526155
+started,bundle,org.hibernate.eclipse.mapper,3.4.0.v20120307-2104-H60-Beta1,"org.hibernate.eclipse.mapper",1335047526156
+started,bundle,org.hibernate.eclipse.console,3.4.0.v20120307-2104-H60-Beta1,"org.hibernate.eclipse.console",1335047526173
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1335047526176
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1335047526178
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1335047526205
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1335047526212
+started,bundle,org.jboss.tools.common.text.xml,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.text.xml",1335047526214
+started,bundle,org.eclipse.wst.xsd.core,1.1.600.v201104070312,"org.eclipse.wst.xsd.core",1335047526309
+started,bundle,org.eclipse.xsd,2.7.1.v20120130-0943,"org.eclipse.xsd",1335047526318
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1335047526397
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1335047526480
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1335047526576
+opened,editor,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor",1335047526662
+activated,editor,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor",1335047526719
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047527148
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047527228
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1335047528094
+activated,editor,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor",1335047529535
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047529792
+closed,editor,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor",1335047529792
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335047529802
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047532120
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047534416
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047544808
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047553604
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1335047553628
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335047579008
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1335047594121
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047594193
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047594329
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1335047594464
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335047597902
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047602295
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1335047602501
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1335047602589
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1335047602628
+started,bundle,org.codehaus.groovy.eclipse.refactoring,2.6.1.xx-20120301-1000-e37-RELEASE,"org.codehaus.groovy.eclipse.refactoring",1335047602675
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047602744
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335047602763
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047602811
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047603622
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047654171
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047654252
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.smartEnter",1335047670626
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1335047672614
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047674955
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047674955
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335047674964
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1335047678523
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047707341
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047707372
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047707432
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047709656
+started,bundle,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp",1335047710140
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047713381
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335047715771
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047716672
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047723300
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047725979
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047728900
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047741592
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047828727
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047831150
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047841278
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335047844292
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047844670
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047844704
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047844773
+error,log,,,"Error logged from Forge Plugin: ",1335047844909
+error,log,,,"Error logged from Forge Plugin: ",1335047844918
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335047853156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047865169
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047865622
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047865644
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335047865663
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047866762
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047867037
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335047867046
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047868009
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047871017
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047871966
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335047874546
+error,log,,,"Error logged from Forge Plugin: ",1335047934792
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335047937704
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047937895
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047937935
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047939476
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047949456
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047949486
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047959215
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047959234
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047961757
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335047964062
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047975139
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335047975174
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335047975188
+error,log,,,"Error logged from Forge Plugin: ",1335047994642
+error,log,,,"Error logged from Forge Plugin: ",1335048001636
+error,log,,,"Error logged from Forge Plugin: ",1335048018793
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048020019
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048031180
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048039236
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048045185
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048048865
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048056303
+error,log,,,"Exception caught in FolderImpl.update()",1335048075958
+error,log,,,"Exception caught in FolderImpl.update()",1335048075970
+error,log,,,"Core exception while retrieving the content description",1335048075981
+error,log,,,"Core exception while retrieving the content description",1335048075986
+started,bundle,org.jboss.tools.jst.web.kb,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.web.kb",1335048077220
+started,bundle,org.eclipse.jpt.jpa.db,2.0.0.v201105030000,"org.eclipse.jpt.jpa.db",1335048077402
+started,bundle,org.jboss.tools.portlet.core,1.2.0.v20120302-2132-H56-Beta1,"org.jboss.tools.portlet.core",1335048077453
+started,bundle,org.jboss.tools.hibernate.jpt.core,3.4.0.v20120307-2104-H60-Beta1,"org.jboss.tools.hibernate.jpt.core",1335048077476
+started,bundle,org.jboss.tools.ws.jaxrs.ui,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.jaxrs.ui",1335048077482
+started,bundle,org.jboss.tools.hibernate.jpt.ui,3.4.0.v20120307-2104-H60-Beta1,"org.jboss.tools.hibernate.jpt.ui",1335048077993
+started,bundle,org.eclipse.wst.css.core,1.1.501.v201111292150,"org.eclipse.wst.css.core",1335048078334
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048078443
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1335048078547
+started,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1335048078550
+started,bundle,org.eclipse.jst.jsp.core,1.2.402.v201112071853,"org.eclipse.jst.jsp.core",1335048078572
+started,bundle,org.jboss.tools.common.text.ext,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.text.ext",1335048078598
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.502.v201104071820,"org.eclipse.wst.wsdl.validation",1335048078600
+started,bundle,org.eclipse.wst.wsi.ui,1.0.502.v201104071820,"org.eclipse.wst.wsi.ui",1335048078612
+started,bundle,org.jboss.tools.cdi.seam.core,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.seam.core",1335048079053
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048089697
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048092419
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048092984
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048092984
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335048092990
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335048093510
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335048093510
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335048093518
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048094135
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335048129805
+error,log,,,"Error logged from Forge Plugin: ",1335048134373
+error,log,,,"Error logged from Forge Plugin: ",1335048134868
+error,log,,,"Error logged from Forge Plugin: ",1335048134869
+error,log,,,"Error logged from Forge Plugin: ",1335048134920
+error,log,,,"Error logged from Forge Plugin: ",1335048134922
+error,log,,,"Error logged from Forge Plugin: ",1335048134953
+error,log,,,"Error logged from Forge Plugin: ",1335048134955
+error,log,,,"Error logged from Forge Plugin: ",1335048135004
+error,log,,,"Error logged from Forge Plugin: ",1335048135005
+error,log,,,"Error logged from Forge Plugin: ",1335048135924
+error,log,,,"Error logged from Forge Plugin: ",1335048135938
+error,log,,,"Error logged from Forge Plugin: ",1335048135939
+error,log,,,"Error logged from Forge Plugin: ",1335048135949
+error,log,,,"Error logged from Forge Plugin: ",1335048137398
+error,log,,,"Error logged from Forge Plugin: ",1335048137399
+error,log,,,"Error logged from Forge Plugin: ",1335048137402
+error,log,,,"Error logged from Forge Plugin: ",1335048137403
+error,log,,,"Error logged from Forge Plugin: ",1335048138371
+error,log,,,"Error logged from Forge Plugin: ",1335048138373
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335048139359
+error,log,,,"Error logged from Forge Plugin: ",1335048140046
+error,log,,,"Error logged from Forge Plugin: ",1335048140048
+error,log,,,"Error logged from Forge Plugin: ",1335048140049
+error,log,,,"Error logged from Forge Plugin: ",1335048140050
+error,log,,,"Error logged from Forge Plugin: ",1335048140078
+error,log,,,"Error logged from Forge Plugin: ",1335048140080
+error,log,,,"Error logged from Forge Plugin: ",1335048140081
+started,bundle,org.jboss.tools.maven.jaxrs,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.jaxrs",1335048140124
+started,bundle,org.jboss.tools.maven.jsf,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.jsf",1335048140126
+started,bundle,org.jboss.tools.maven.portlet,1.3.0.v20120307-0425-H80-Beta1,"org.jboss.tools.maven.portlet",1335048140128
+started,bundle,org.eclipse.jst.j2ee.web,1.1.502.v201202090300,"org.eclipse.jst.j2ee.web",1335048140171
+error,log,,,"Error logged from Forge Plugin: ",1335048140428
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.505.v201202020200,"org.eclipse.jst.j2ee.ejb",1335048140516
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.501.v201111030500,"org.eclipse.jst.j2ee.jca",1335048140519
+started,bundle,org.eclipse.jst.jee.ejb,1.0.301.v201007070821,"org.eclipse.jst.jee.ejb",1335048140525
+started,bundle,org.eclipse.jst.jee.web,1.0.301.v201007070907,"org.eclipse.jst.jee.web",1335048140537
+started,bundle,org.jboss.tools.ws.jaxrs.core,1.2.2.v20120306-1559-H77-Beta1,"org.jboss.tools.ws.jaxrs.core",1335048140621
+started,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1335048140684

@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-surefire-plugin:2.7.1",1335050365872
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1335050365872
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1335050365872
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1335050365872
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.200,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1335050365872
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050372888
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050375684
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050379901
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050388047
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050388933
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050389670
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050389704
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050389760
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050391817
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335050398402
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335050398612
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1335050403247
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335050403522
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335050403667
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.deletePreviousWord",1335050405397
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1335050406202
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1335050406202
+started,bundle,org.codehaus.groovy.eclipse.quickfix,2.6.1.xx-20120301-1000-e37-RELEASE,"org.codehaus.groovy.eclipse.quickfix",1335050406207
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335050412052
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1335050414857
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1335050415742
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335050415752
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.AllMarkersView",1335050415982
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050416112
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050416117
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335050416147
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050417392
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050418499
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050418531
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1335050420024
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335050420184
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1335050422279
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1335050422429
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335050423739
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1335050423904
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1335050424179
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050425214
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1335050425214
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1335050425219
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050427199
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050436180
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050436225
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050461222
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050461982
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050473592
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050485451
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050486425
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050489145
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050493776
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335050501111
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335050501318
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050519186
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050533646
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050542279
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050542528
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050545682
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050548959
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050551289
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335050556418
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1335050556449
+started,bundle,org.eclipse.mylyn.tasks.index.core,3.7.0.v20120319-0200,"org.eclipse.mylyn.tasks.index.core",1335050556480
+started,bundle,org.eclipse.mylyn.commons.notifications.ui,0.9.0.v20120319-0200,"org.eclipse.mylyn.commons.notifications.ui",1335050556589
+opened,view,org.eclipse.mylyn.tasks.ui,3.7.0.v20120319-0200,"org.eclipse.mylyn.tasks.ui.views.tasks",1335050556605
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1335050556620
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1335050556620
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.perspectives.showPerspective",1335050556667
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1335050556667
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335050557909
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050562276
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050562548
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050562823
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050563186
+activated,perspective,org.eclipse.jst.j2ee.ui,1.1.503.v201201190400,"org.eclipse.jst.j2ee.J2EEPerspective",1335050566959
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1335050566975
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050567926
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050603130
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050629636
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050637378
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050657970
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050661432
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050665925
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050671542
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050672387
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050715514
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050723889
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050724309
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050727222
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050745896
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050760722
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1335050761653
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050765595
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050769284
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335050771435
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050775075
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050781207
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050802437
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050806084
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050808178
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050811955
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335050815468
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335050815790
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335050816028
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1335050816237
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1335050816530
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1335050816743
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1335050816936
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050824578
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050865283
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335050869175
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050872687
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050873666
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.commandList",1335050873669
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050876178
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050877930
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335050898033
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.start",1335050899356
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050900792
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050901098
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050902115
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050903865
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050903868
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050921490
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050921642
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050922323
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050922545
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050928775
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050935209
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050976705
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335050976758
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050976869
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335050977494
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335050983309
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335050994602
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051055399
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051066366
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051112196
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335051112456
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051114266
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051114636
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.commandList",1335051114636
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051122080
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051129763
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335051169968
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335051170181
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335051170358
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051172903
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051195521
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335051195523
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335051197118
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051198473
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051875683
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335051878731
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335051879176
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051884215
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335051960204
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051960215
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051962681
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051965221
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051966221
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335051976745
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.start",1335051978375
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052007255
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052016402
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335052017622
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052020885
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052035394
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052043836
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052148036
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335052158916
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052165130
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052168110
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1335052206570
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052210579
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052237514
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052238678
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052246635
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052256898
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052294420
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335052295523
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335052295651
+started,bundle,org.eclipse.wst.html.core,1.1.502.v201202091936,"org.eclipse.wst.html.core",1335052295968
+started,bundle,org.eclipse.jst.jsf.facelet.ui,1.0.1.v201104032306,"org.eclipse.jst.jsf.facelet.ui",1335052296129
+started,bundle,org.eclipse.jst.jsf.facelet.core,1.0.100.v201104191527,"org.eclipse.jst.jsf.facelet.core",1335052296134
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052314268
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052365685
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335052365688
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052367405
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052437874
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335052439047
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335052439230
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052439291
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052439293
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052439363
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052439364
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052439386
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052439387
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052439390
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052439392
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052439414
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052439415
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052439418
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052439419
+error,log,,,"Unable to parse file 'src\\main\\webapp\\WEB-INF\\web.xml' to find <servlet-mapping> elements",1335052439604
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052440023
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052440024
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052440040
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Museo",1335052440041
+started,bundle,org.eclipse.m2e.editor,1.0.200.20111228-1245,"org.eclipse.m2e.editor",1335052448798
+started,bundle,org.jboss.tools.jst.jsp,3.3.0.v20120302-0221-H55-Beta1,"org.jboss.tools.jst.jsp",1335052448826
+opened,editor,org.eclipse.m2e.editor,1.0.200.20111228-1245,"org.eclipse.m2e.editor.MavenPomEditor",1335052449208
+activated,editor,org.eclipse.m2e.editor,1.0.200.20111228-1245,"org.eclipse.m2e.editor.MavenPomEditor",1335052449251
+started,bundle,org.jboss.tools.cdi.ui,1.2.0.v20120302-0255-H54-Beta1,"org.jboss.tools.cdi.ui",1335052460900
+started,bundle,org.jboss.tools.common.ui,3.3.0.v20120302-0132-H47-Beta1,"org.jboss.tools.common.ui",1335052460902
+started,bundle,org.jboss.tools.jsf.ui,3.3.0.v20120302-0331-H69-Beta1,"org.jboss.tools.jsf.ui",1335052460909
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052463791
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052465151
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335052466290
+closed,editor,org.eclipse.m2e.editor,1.0.200.20111228-1245,"org.eclipse.m2e.editor.MavenPomEditor",1335052466290
+activated,view,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.view",1335052471393
+executed,command,org.jboss.tools.forge.ui,1.0.0.v20120307-0439-H54-Beta1,"org.jboss.tools.forge.ui.stop",1335052471465
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052472388
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052474360
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1335052474365
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1335052478836
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1335052478838
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1335052480471
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1335052486258
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052487767
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052488907
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335052488916
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052490473
+error,log,,,"src/main/java [in Museo] does not exist",1335052491415
+error,log,,,"Museo does not exist",1335052491423
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jface"".",1335052491426
+error,log,,,"Museo does not exist",1335052491447
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1335052491449
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.servlet.ui.EnhancedJavaRendering for object org.eclipse.jst.servlet.ui.internal.navigator.CompressedJavaProject@541fd1c0",1335052491450
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052491592
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1335052491597
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1335052491597
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052494236
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052496359
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052498875
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052507053
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1335052507999
